@@ -23,11 +23,11 @@ const limiter = rateLimit({
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
+app.use(cookieParser());
+
 app.use(cors);
 
-mongoose.connect('mongodb://127.0.0.1:27017/mestodb');
-
-app.use(cookieParser());
+mongoose.connect('mongodb://127.0.0.1:27017/juicypixdb');
 
 app.use(limiter);
 

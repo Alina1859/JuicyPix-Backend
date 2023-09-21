@@ -1,5 +1,5 @@
 {
-  "name": "mesto-backend",
+  "name": "JuicyPix-Backend",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alina1859/mesto-backend.git"
+    "url": "git+https://github.com/Alina1859/JuicyPix-Backend.git"
   },
   "author": "Alina Sultanova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Alina1859/mesto-backend/issues"
+    "url": "https://github.com/Alina1859/JuicyPix-Backend/issues"
   },
-  "homepage": "https://github.com/Alina1859/mesto-backend#readme",
+  "homepage": "https://github.com/Alina1859/JuicyPix-Backend#readme",
   "devDependencies": {
     "eslint": "^8.41.0",
     "eslint-config-airbnb-base": "^15.0.0",

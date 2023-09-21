@@ -4,7 +4,8 @@
 <p align="center">
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=43853D) ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express.js&color=gray)
-![](https://img.shields.io/badge/Style-MongoDB-informational?style=flat&logo=MongoDB&color=4EA94B)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=yellow)
+![](https://img.shields.io/badge/Base-MongoDB-informational?style=flat&logo=MongoDB&color=4EA94B)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=red) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=%234a4a4a) 
 
 ## Description
