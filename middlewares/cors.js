@@ -1,15 +1,15 @@
 // Массив доменов, с которых разрешены кросс-доменные запросы
 const allowedCors = [
-  'https://juicypix.sertralina.tech',
-  'https://api.juicypix.sertralina.tech',
-  'http://juicypix.sertralina.tech',
-  'http://api.juicypix.sertralina.tech',
-  'http://localhost:3001',
-  'https://localhost:3001',
-  'localhost:3001',
-  'http://localhost:3000',
-  'https://localhost:3000',
-  'localhost:3000',
+  'https://juicypix.sertralina.tech/',
+  'https://api.juicypix.sertralina.tech/',
+  'http://juicypix.sertralina.tech/',
+  'http://api.juicypix.sertralina.tech/',
+  'http://localhost:3001/',
+  'https://localhost:3001/',
+  'localhost:3001/',
+  'http://localhost:3000/',
+  'https://localhost:3000/',
+  'localhost:3000/',
 ];
 
 // eslint-disable-next-line consistent-return
