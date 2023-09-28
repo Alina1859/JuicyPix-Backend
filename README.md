@@ -12,10 +12,13 @@
 
 **There is all backend part for app**
 
-🌱 [TAP TO SEE JUICY PIX APP](https://juicypix.sertralina.tech)
+🌱 [TAP TO SEE JUICY PIX APP](https://juicypix.sertralina.tech/sign-up)
 
 🌱 [TAP TO SEE FRONTEND AND ALL DESCRIPTON OF JUICY PIX APP](https://github.com/Alina1859/JuicyPix-Frontend)
 
+## Technologies in the project
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongo)](https://skillicons.dev)
 
 ## Project setup
 
